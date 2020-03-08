@@ -7,7 +7,15 @@ Geant4 - an Object-Oriented Toolkit for Simulation in HEP
 		  ABALONE photosensor
 		  -------------------
 
+Building the simulation from source code
+
+% sudo cmake -DGeant4_DIR=<Your Directory>/Geant4/geant4-install/lib/Geant4-10.5.1 <Your Directory>/ABALONE_source 
+% sudo make install -jN
+
 BEFORE RUNNING THE SIMULATION
+
+-- Create the folder structure --
+
 ### Please create a folder to contain the output files ###
 % mkdir <desired directory>/results/SiPM
 % mkdir <desired directory>/results/tracking
