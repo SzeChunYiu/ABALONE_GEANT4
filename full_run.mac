@@ -15,20 +15,20 @@
 /ABALONE_Event/generator/angle 0.05 
 /control/execute execute.mac
 
-/ABALONE_Event/generator/angle 5 
-/control/execute execute.mac
-
-/ABALONE_Event/generator/angle 10 
-/control/execute execute.mac
-
 /ABALONE_Event/generator/angle 15 
 /control/execute execute.mac
 
-/ABALONE_Event/generator/angle 20 
-/control/execute execute.mac
-
-/ABALONE_Event/generator/angle 25 
-/control/execute execute.mac
-
 /ABALONE_Event/generator/angle 30 
+/control/execute execute.mac
+
+/ABALONE_Event/generator/angle 45 
+/control/execute execute.mac
+
+/ABALONE_Event/generator/angle 60 
+/control/execute execute.mac
+
+/ABALONE_Event/generator/angle 75 
+/control/execute execute.mac
+
+/ABALONE_Event/generator/angle 85 
 /control/execute execute.mac
